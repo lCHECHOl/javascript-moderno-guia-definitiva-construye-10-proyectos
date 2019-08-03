@@ -10,8 +10,8 @@ La mejor forma de aprender es desarrollando algo, en este curso crearemos bastan
 
 Los Proyectos desarrollados incluyen:
 
-  -Formulario para guardar a Local Storage
-  -Cotizador de Seguros de Auto
+  *Formulario para guardar a Local Storage
+  *Cotizador de Seguros de Auto
   -Simulador de Envio de Emails
   -Generador de Nombres desde una REST API
   -Cotizador de Criptomonedas desde una REST API ( Más de 100 incluidas)
